@@ -5,7 +5,7 @@
 - Learn Python
 
 # Replit
-https://replit.com/@realTristan/Python-STEM-Club#_6_Project_Example.py
+https://replit.com/@realTristan/Python-STEM-Club
 
 
 # Week 1 Final Project
